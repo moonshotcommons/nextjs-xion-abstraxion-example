@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 
 const treasuryConfig = {
-  treasury: "xion1qzwgppc00ef00dlhe8yedxk6hv0r4zld99x7wvll8aej8mvcczes02q2jk",
+  treasury: "xion1hvnn3368h3wl3yxvtf5pylkxxzsdv2qjdkd7tc2jgm55wln8tz4s6ma06u",
 };
 
 export const mathOperationContractAddress = "xion1vvddpg4drp34k388xej297duptgwasac832xmpan2je799nwp3uqnzf29j";
