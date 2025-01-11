@@ -13,6 +13,8 @@ const treasuryConfig = {
   treasury: "xion1qzwgppc00ef00dlhe8yedxk6hv0r4zld99x7wvll8aej8mvcczes02q2jk",
 };
 
+export const mathOperationContractAddress = "xion1vvddpg4drp34k388xej297duptgwasac832xmpan2je799nwp3uqnzf29j";
+
 export default function RootLayout({
   children,
 }: {
